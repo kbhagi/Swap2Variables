@@ -1,0 +1,5 @@
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\SwapValues2VariableUsingPointer\SwapValues2VariableUsingPointer\bin\Debug\SwapValues2VariableUsingPointer.exe
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\SwapValues2VariableUsingPointer\SwapValues2VariableUsingPointer\bin\Debug\SwapValues2VariableUsingPointer.pdb
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\SwapValues2VariableUsingPointer\SwapValues2VariableUsingPointer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\SwapValues2VariableUsingPointer\SwapValues2VariableUsingPointer\obj\Debug\SwapValues2VariableUsingPointer.exe
+C:\Users\BHARGAVA K\Documents\Visual Studio 2008\Projects\ExamGradeStudent\SwapValues2VariableUsingPointer\SwapValues2VariableUsingPointer\obj\Debug\SwapValues2VariableUsingPointer.pdb
